@@ -1,5 +1,6 @@
-# Inserindo dados para testes
+from src.crud.crud_sqlite import CrudSQLite
 
+# Inserindo dados para testes
 objeto_dml = CrudSQLite(nome_banco='desafio')
 
 # Inserir registros

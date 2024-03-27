@@ -62,7 +62,6 @@ class CrudSQLite:
         return None
 
 # Testando tabela
-
 # Instancia um objeto
 objeto_crud = CrudSQLite(nome_banco='desafio')
 
